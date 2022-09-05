@@ -15,7 +15,7 @@ https://github.com/harshs0ni/goot.git
 cd goot
 ```
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## You Are Ready To Go :thumbsup:
 Usage
