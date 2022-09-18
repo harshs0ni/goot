@@ -23,7 +23,7 @@ Usage
 Usage: python3 goot.py -u <url> <arguement> <value>
     -u | --url <url>  || url of the target site
     -e | --everything || to print every link
-    -x | --extension  || to print links with following extension '''+ default_ext_str +'''
+    -x | --extension  || to print links with following extension '.log, .logs, .cfg, .pl, .keystore, .js, .sql, .bak, .py, .env, .json, .properties, .pem, .yml, .yaml, .aspx, .sh, .asp, .zip, .jks'
     -c | --custom-extension <extensions> || to print all link with your desired extension || eg: -c pdf,docx,pptx
     -t | --in-title <string> || to print links if your desired string is in title 
     -l | --in-url <string> || to print links if your desired string is in url 
